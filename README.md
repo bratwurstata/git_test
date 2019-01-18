@@ -1,0 +1,1 @@
+This is Sepp's first git project!
